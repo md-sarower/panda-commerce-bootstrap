@@ -1,0 +1,16 @@
+.slider-bg {
+    background-color: #FCEAE8;
+}
+.catagories-bg-left {
+    background-color: #FFA500;
+}
+.catagories-bg-middle {
+    background-color: #DA70D6;
+}
+.catagories-bg-right {
+    background-color: #0000FF;
+}
+.catagories img {
+    width: 100px;
+    height: 100px;
+}
